@@ -1,107 +1,41 @@
-<div align="center">
+<img src="https://camo.githubusercontent.com/ec6e701d5e31850db670217ea82f9f4757ce95be5313b17c3b6f57ea591887d5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" width="100%"/>
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ibo&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=AI%20Builder%20%7C%20Learning%20in%20Public&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<h1 align="center">Hi 👋, I'm Bashanta Bikash Chakma</h1>
+<h3 align="center">Building with LLMs · Generative AI · Agentic AI</h3>
 
-</div>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<div align="center">
+- 🔭 I'm currently building **AI Agents** using CrewAI, LangChain, and Groq — creating systems that can think, plan, and act autonomously.
 
-### Hey 👋 I'm **Ibo**
-#### Building with LLMs · Generative AI · Agentic AI
+- 🌱 I'm currently learning **LLMs, Generative AI, and Agentic AI** — diving deep into Transformer architecture, smolagents, LlamaIndex, and LangGraph.
 
-<br/>
+- 🚀 I recently built an **AI Startup Idea Generator** (CrewAI + Groq + Gradio) and an **AI Resume Reviewer** (Groq API + PyPDF2 + Gradio).
 
-[![GitHub](https://img.shields.io/badge/GitHub-ibo--agentic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibo-agentic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Slow%20Aging%20Project-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+- 👯 I'm open to collaborating on **Agentic AI projects, LLM applications, and RAG systems.**
 
-</div>
+- 🧬 I also run the **Slow Aging Project** — a YouTube + blog on longevity, plant-based nutrition, and biology.
 
----
+- 💬 Ask me about **AI Agents, LLMs, CrewAI, Groq API, or Gradio.**
 
-## 🧠 What I'm About
+- 📫 Reach me at **ibo.codehub@gmail.com**
 
-```python
-ibo = {
-    "focus"    : ["LLMs", "Generative AI", "Agentic AI"],
-    "building" : ["AI Agents", "RAG systems", "Agentic workflows"],
-    "stack"    : ["Python", "CrewAI", "LangChain", "Groq", "Gradio", "HuggingFace"],
-    "learning" : ["Transformers", "smolagents", "LlamaIndex", "LangGraph"],
-    "side"     : "Running the Slow Aging Project 🧬 (YouTube + Blog)",
-    "vibe"     : "Learning in public. Sharing everything. Building fast."
-}
-```
+- ⚡ Fun fact: I'm an introvert and self-learner who went from ML basics to building full Agentic AI systems — and I document everything publicly.
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bashant-bikash-chakma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://fb.com/eeboh.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+</p>
 
-## 🚀 Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
+</p>
 
-### 🤖 AI Startup Idea Generator
-> Multi-agent system that generates validated startup ideas
-- **Stack:** CrewAI · Groq (Llama 3.3 70B) · Gradio
-- **Agents:** Researcher → Analyst → Validator working in a pipeline
-- [View Repo →](https://github.com/ibo-agentic)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibo-agentic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ibo-agentic" /></p>
 
----
-
-### 📄 AI Resume Reviewer
-> Upload your resume, get instant AI-powered feedback
-- **Stack:** Groq API · Gradio · PyPDF2
-- Extracts text from PDF and gives structured review
-- [View Repo →](https://github.com/ibo-agentic)
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-- 🔗 **LangChain & LangGraph** — Building complex agent workflows
-- 🤗 **HuggingFace Agents Course** — smolagents, LlamaIndex
-- 🧬 **Transformer Architecture** — Attention, LSTM, RNNs from scratch
-- 🏗️ **Agentic AI Systems** — Multi-agent design patterns
-
----
-
-## 🧬 Slow Aging Project
-
-> I also run a content project on **longevity, plant-based nutrition & biology**
-> — YouTube videos, reels, and blog posts on how to age slower through science.
-
-[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ibo-agentic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibo-agentic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"Building in public. Every project is a lesson."* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibo-agentic&theme=tokyonight" alt="ibo-agentic" /></p>
